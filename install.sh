@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Import base
+# Base
 . base.sh
 
 # Apache, MySQL, PHP and PHP Libs
@@ -18,17 +18,17 @@ if confirm 'drush.sh'; then . apps/drush.sh; fi;
 # Drupal console
 if confirm 'drupal-console.sh'; then . apps/drupal-console.sh; fi;
 
-# Composer
-if confirm 'composer.sh'; then . apps/composer.sh; fi;
-
-# Gulp
-if confirm 'gulp.sh'; then . apps/gulp.sh; fi;
-
 # NPM
 if confirm 'npm.sh'; then . apps/npm.sh; fi;
 
 # NVM
 if confirm 'nvm.sh'; then . apps/nvm.sh; fi;
+
+# Composer
+if confirm 'composer.sh'; then . apps/composer.sh; fi;
+
+# Gulp
+if confirm 'gulp.sh'; then . apps/gulp.sh; fi;
 
 # Editors
 if confirm 'sublime-text.sh'; then . apps/sublime-text.sh; fi;
