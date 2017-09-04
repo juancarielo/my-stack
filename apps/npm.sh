@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt-get install npm;
+sudo apt-get install -y npm;
