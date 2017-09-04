@@ -30,6 +30,12 @@ if confirm 'composer.sh'; then . apps/composer.sh; fi;
 # Gulp
 if confirm 'gulp.sh'; then . apps/gulp.sh; fi;
 
+# Clipboard manager
+if confirm 'clipit.sh'; then . apps/clipit.sh; fi;
+
+# Terminal
+if confirm 'guake.sh'; then . apps/guake.sh; fi;
+
 # Editors
 if confirm 'sublime-text.sh'; then . apps/sublime-text.sh; fi;
 if confirm 'vim.sh'; then . apps/vim.sh; fi;
