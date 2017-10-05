@@ -9,9 +9,11 @@ List of apps and tools to install:
 | AMP | Apache, MySQL, PHP and PHP Libs |
 | Composer | https://getcomposer.org/ |
 | cURL | https://curl.haxx.se/ |
+| ClipIt | https://github.com/CristianHenzel/ClipIt |
 | Drupal Console | https://drupalconsole.com/ |
 | Drush | http://www.drush.org/en/master/ |
 | Git | https://git-scm.com/ |
+| Guake | https://github.com/Guake/guake |
 | Gulp | https://gulpjs.com/ |
 | NPM | https://www.npmjs.com/ |
 | NVM | https://github.com/creationix/nvm |
@@ -26,6 +28,3 @@ Install the apps and tools:
 
 ```sh
 $ bash install.sh
-```
-
-Bye.
