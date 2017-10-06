@@ -6,6 +6,9 @@
 # Apache, MySQL, PHP and PHP Libs
 if confirm 'amp.sh'; then . apps/amp.sh; fi;
 
+# MySQL Workbench
+if confirm 'mysql-workbench.sh'; then . apps/mysql-workbench.sh; fi;
+
 # cURL
 if confirm 'curl.sh'; then . apps/curl.sh; fi;
 
