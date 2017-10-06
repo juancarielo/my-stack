@@ -15,6 +15,7 @@ List of apps and tools to install:
 | Git | https://git-scm.com/ |
 | Guake | https://github.com/Guake/guake |
 | Gulp | https://gulpjs.com/ |
+| MySQL Workbench | https://github.com/mysql/mysql-workbench |
 | NPM | https://www.npmjs.com/ |
 | NVM | https://github.com/creationix/nvm |
 | PHPMyAdmin | https://www.phpmyadmin.net/ |
