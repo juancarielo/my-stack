@@ -3,6 +3,8 @@
 # Base
 . base.sh
 
+# if confirm 'test.sh'; then . apps/test.sh; fi;
+
 # Apache, MySQL, PHP and PHP Libs
 if confirm 'amp.sh'; then . apps/amp.sh; fi;
 
